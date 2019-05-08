@@ -1,2 +1,2 @@
 # local_library
-Local library designeed using Django
+Local library designed using Django
